@@ -1,0 +1,87 @@
+{"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEyODUxMTc2OTksImV4cCI6MTcyNzAyMzA4MX0.3Lv_K_aC6Cu98rE2PUHVJ5C4A9WCliBYcBoHLScsvrw","token_type":"bearer","user":{"id":1285117699,"username":"pgfight","first_name":"0xijal","last_name":"🦴","is_premium":false,"status_id":null,"rating":0,"is_telegram_hidden":false,"squad_id":1006503122,"notifications_enabled":true}}
+{"user_id":1285117699,"streak":2}
+{"user_id":1285117699,"streak":2,"is_increased":false,"is_allowed":true}
+{"id":1285117699,"username":"pgfight","first_name":"0xijal","last_name":"🦴","is_premium":false,"rating":458237,"squad_id":1006503122,"status_id":null,"is_telegram_hidden":false,"notifications_enabled":true}
+[{"id":32,"title":"Stars Purchase","description":"Buy 1,000 Telegram Stars to get bonus rating every day and unlock extra task!","icon_url":"/images/tasks/DailyStars.svg","type":"boost","award":50000,"payload":{"url":"someting","ton_wallet":null,"amount":1000.0,"run_button":"Buy","check_button":"Check task","group":2},"is_completed":false},{"id":34,"title":"Extra Stars Purchase","description":"Buy extra 1,500 Telegram Stars to get bonus rating every day.","icon_url":"/images/tasks/DailyStars.svg","type":"boost","award":80000,"payload":{"url":"someting","ton_wallet":null,"amount":1500.0,"run_button":"Buy","check_button":"Check task","group":2},"is_completed":false},{"id":15,"title":"Promote TON blockchain","description":"Use TON blockchain and make transactions to get free rating every day.","icon_url":"/images/tasks/TON_Logo.svg","type":"ton_transaction","award":20000,"payload":{"url":"someting","ton_wallet":"UQBZ1Lzyfx81Vph2EL2jsQk9pzqo3SC5wit6OyS23ZrUO_xH","amount":0.5,"run_button":"Create transaction","check_button":"Check transaction","group":null},"is_completed":false},{"id":5,"title":"TON Channels","description":"Add a chat folder with channels about the TON ecosystem and earn stars every day.","icon_url":"/images/tasks/Folder_Logo.svg","type":"without_check","award":3500,"payload":{"url":"https://t.me/addlist/iNEtYPniWmVhYWJi","ton_wallet":null,"amount":null,"run_button":"Subscribe","check_button":"Check subscription","group":null},"is_completed":false},{"id":8,"title":"Boost Major channel","description":"Boost official Major channel to help it get additional features. Keep your boost to collect free rating every day.","icon_url":"/images/tasks/Boost_Logo.svg","type":"boost_channel","award":3000,"payload":{"url":"https://t.me/boost/starsmajor","ton_wallet":null,"amount":null,"run_button":"Boost channel","check_button":"Check boost","group":null},"is_completed":false},{"id":6,"title":"Donate rating","description":"Get daily bonus for donation of 1000 rating points to another user.","icon_url":"/images/tasks/Gift_Logo.svg","type":"donate","award":2500,"payload":{"url":"something","ton_wallet":null,"amount":1000.0,"run_button":null,"check_button":"Check task","group":null},"is_completed":false},{"id":4,"title":"Invite more Friends","description":"Invite at least 10 friends today.","icon_url":"/images/tasks/Invite_Logo.svg","type":"referral","award":7500,"payload":{"url":"something","ton_wallet":null,"amount":10.0,"run_button":"Invite friend","check_button":"Check task","group":null},"is_completed":false},{"id":82,"title":"Boost Roxman channel","description":"Boost official Roxman channel to help it get additional features. Keep your boost to collect free rating every day.","icon_url":"/images/tasks/Boost_Logo.svg","type":"boost_channel","award":1000,"payload":{"url":"https://t.me/boost/roxman","ton_wallet":null,"amount":null,"run_button":"Boost channel","check_button":"Check boost","group":null},"is_completed":false},{"id":29,"title":"Follow Major in Telegram","description":"Subscribe and keep following to earn bonus rating every day.","icon_url":"/images/tasks/Telegram_Logo.svg","type":"subscribe_channel","award":2500,"payload":{"url":"https://t.me/starsmajor","ton_wallet":null,"amount":null,"run_button":"Subscribe","check_button":"Check subscription","group":null},"is_completed":true},{"id":16,"title":"Share in Telegram Stories","description":"Share information about your rank in stories to get an additional rating.","icon_url":"/images/tasks/stories.svg","type":"stories","award":10000,"payload":{"url":"someting","ton_wallet":"UQBZ1Lzyfx81Vph2EL2jsQk9pzqo3SC5wit6OyS23ZrUO_xH","amount":0.5,"run_button":"Share","check_button":"Check task","group":null},"is_completed":true}]
+{"task_id":32,"is_completed":false}
+{"task_id":34,"is_completed":false}
+{"task_id":15,"is_completed":false}
+{"task_id":5,"is_completed":true}
+{"task_id":8,"is_completed":false}
+{"task_id":6,"is_completed":false}
+{"task_id":4,"is_completed":false}
+{"task_id":82,"is_completed":false}
+{"detail":"Task is already completed"}
+{"detail":"Task is already completed"}
+[{"id":103,"title":"Watch YouTube Shorts #5","description":"Watch our new shorts on our YouTube channel to get reward!","icon_url":"/images/tasks/YouTube.svg","type":"watch_youtube","award":1500,"payload":{"url":"https://youtube.com/shorts/fADx0idyGQg?si=G48QVFB2oQjzJ58N","ton_wallet":null,"amount":null,"run_button":"Watch","check_button":"Check task","group":1},"is_completed":false},{"id":102,"title":"Watch YouTube Shorts #4","description":"Watch our new shorts on our YouTube channel to get code!","icon_url":"/images/tasks/YouTube.svg","type":"code","award":1500,"payload":{"url":"https://youtube.com/shorts/4TqOjf5zrKY?feature=share","ton_wallet":null,"amount":null,"run_button":"Watch","check_button":"Check task","group":1},"is_completed":false},{"id":96,"title":"Watch YouTube Video #2","description":"Watch our video on our YouTube channel to get reward!","icon_url":"/images/tasks/YouTube.svg","type":"watch_youtube","award":2500,"payload":{"url":"https://youtu.be/3RH7jRAaVqA?si=YXaoX-GWPxVdam7m","ton_wallet":null,"amount":null,"run_button":"Watch","check_button":"Check task","group":1},"is_completed":false},{"id":94,"title":"Watch YouTube Shorts #3","description":"Watch our new shorts on our YouTube channel to get reward!","icon_url":"/images/tasks/YouTube.svg","type":"watch_youtube","award":1500,"payload":{"url":"https://youtube.com/shorts/N55FZb3Wht4?feature=share","ton_wallet":null,"amount":null,"run_button":"Watch","check_button":"Check task","group":1},"is_completed":false},{"id":92,"title":"Watch YouTube Video #1","description":"Watch our video on our YouTube channel to get secret code!","icon_url":"/images/tasks/YouTube.svg","type":"code","award":5000,"payload":{"url":"https://youtu.be/WkFDog19o-A","ton_wallet":null,"amount":null,"run_button":"Watch","check_button":"Check task","group":1},"is_completed":false},{"id":87,"title":"Watch YouTube Shorts #2","description":"Watch our new shorts on our YouTube channel to get reward!","icon_url":"/images/tasks/YouTube.svg","type":"watch_youtube","award":1500,"payload":{"url":"https://youtube.com/shorts/TZlKNWP0rxU?si=NUXZbUTwWlIOSz5b","ton_wallet":null,"amount":null,"run_button":"Watch","check_button":"Check task","group":1},"is_completed":false},{"id":86,"title":"Watch YouTube Shorts #1","description":"Watch our new shorts on our YouTube channel to get reward!","icon_url":"/images/tasks/YouTube.svg","type":"watch_youtube","award":1500,"payload":{"url":"https://youtube.com/shorts/iVjao06xVl0?si=HfT9VrDY7sNdUIsM","ton_wallet":null,"amount":null,"run_button":"Watch","check_button":"Check task","group":1},"is_completed":false},{"id":33,"title":"Status Purchase","description":"Purchase NFT status badge to display a unique icon next to your username.","icon_url":"/images/tasks/Status.svg","type":"boost","award":10000,"payload":{"url":"someting","ton_wallet":null,"amount":750.0,"run_button":"Buy","check_button":"Check task","group":null},"is_completed":false},{"id":21,"title":"One-time Stars Purchase","description":"Buy 10 Telegram Stars","icon_url":"/images/tasks/one_time_stars.svg","type":"boost","award":10000,"payload":{"url":"someting","ton_wallet":null,"amount":10.0,"run_button":"Buy","check_button":"Check task","group":null},"is_completed":false},{"id":20,"title":"Binance x TON","description":"Make a transaction to celebrate TON listing on Binance. Limited one-time bonus.","icon_url":"/images/tasks/one_time_ton.svg","type":"ton_transaction","award":10000,"payload":{"url":"someting","ton_wallet":"UQBZ1Lzyfx81Vph2EL2jsQk9pzqo3SC5wit6OyS23ZrUO_xH","amount":0.1,"run_button":"Create transaction","check_button":"Check transaction","group":null},"is_completed":false},{"id":99,"title":"CITY Holder Game","description":"Build the city of your dreams in CITY Holder. The first build-to-earn game.\nTo receive a reward, create a city and build one house.","icon_url":"/images/tasks/CityHolder_Logo1.svg","type":"external_api","award":5000,"payload":{"url":"https://t.me/cityholder/game?startapp=6028213496","ton_wallet":null,"amount":null,"run_button":"Play","check_button":"Check","group":null},"is_completed":false},{"id":100,"title":"Bums","description":"Reach level 3 in BUMS and rake in the cash!","icon_url":"/images/tasks/Bums_Logo.svg","type":"without_check","award":5000,"payload":{"url":"https://t.me/bums/app?startapp=ref_Xjk1E0ph","ton_wallet":null,"amount":null,"run_button":"Play","check_button":"Check task","group":null},"is_completed":false},{"id":98,"title":"Join DeGENS Community","description":"Join DeGENS Community to get reward!","icon_url":"/images/tasks/degens_white_logo.svg","type":"subscribe_channel","award":1000,"payload":{"url":"https://t.me/+JxE_oegojlE5NTE0","ton_wallet":null,"amount":null,"run_button":"Subscribe","check_button":"Check subscription","group":null},"is_completed":false}]
+{"task_id":103,"is_completed":true}
+{"detail":"An application error occurred"}
+{"task_id":96,"is_completed":true}
+{"task_id":94,"is_completed":true}
+{"detail":"An application error occurred"}
+{"task_id":87,"is_completed":true}
+{"task_id":86,"is_completed":true}
+{"task_id":33,"is_completed":false}
+{"task_id":21,"is_completed":false}
+{"task_id":20,"is_completed":false}
+{"task_id":99,"is_completed":false}
+{"task_id":100,"is_completed":true}
+{"task_id":98,"is_completed":false}
+{"success":true}
+{
+    "2024-09-14": {
+        "choice_1": 4,
+        "choice_2": 8,
+        "choice_3": 15,
+        "choice_4": 16
+    },
+    "2024-09-15": {
+        "choice_1": 8,
+        "choice_2": 4,
+        "choice_3": 10,
+        "choice_4": 1
+    },
+    "2024-09-16": {
+        "choice_1": 3,
+        "choice_2": 10,
+        "choice_3": 1,
+        "choice_4": 9
+    },
+    "2024-09-17": {
+        "choice_1": 10,
+        "choice_2": 4,
+        "choice_3": 1,
+        "choice_4": 16
+    },
+    "2024-09-18": {
+        "choice_1": 8,
+        "choice_2": 3,
+        "choice_3": 7,
+        "choice_4": 4
+    },
+    "2024-09-19": {
+        "choice_1": 9,
+        "choice_2": 4,
+        "choice_3": 10,
+        "choice_4": 2
+    },
+    "2024-09-20": {
+        "choice_1": 3,
+        "choice_2": 5,
+        "choice_3": 1,
+        "choice_4": 2
+    },
+    "2024-09-21": {
+        "choice_1": 13,
+        "choice_2": 2,
+        "choice_3": 11,
+        "choice_4": 10
+    }
+}
+{"correct":[13,2,11,10]}
+{"detail":{"need_invites":5,"blocked_until":1726955905.518387}}
+{"success":true}
+{"success":true}
+{"success":true}
+{"success":true}
+{"id":1285117699,"username":"pgfight","first_name":"0xijal","last_name":"🦴","is_premium":false,"rating":484095,"squad_id":1006503122,"status_id":null,"is_telegram_hidden":false,"notifications_enabled":true}
